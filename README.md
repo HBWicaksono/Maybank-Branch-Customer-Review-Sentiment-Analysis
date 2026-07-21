@@ -35,6 +35,4 @@ Aplikasi ini membutuhkan file data CSV berikut di dalam folder `data/`:
 - `topik negatif label.csv`, `topik netral label.csv`, `topik positif label.csv`
 
 ## Kontributor
-
-- [Nama Kamu](https://github.com/username-kamu) - (Peran Kamu, misal: Deployer & Dokumentasi)
-- [Nama Teman Kamu](https://github.com/username-temanmu) - (Peran Teman, misal: Lead Developer & Data Scientist)
+Haryo Bismo Wicaksono (https://[github.com/username-kamu](https://github.com/HBWicaksono))
