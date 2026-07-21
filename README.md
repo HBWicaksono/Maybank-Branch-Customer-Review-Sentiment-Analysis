@@ -30,4 +30,4 @@ Dashboard ini digunakan untuk menganalisis sentimen dan topik komentar pelanggan
 
 
 ## Kontributor
-Haryo Bismo Wicaksono (https://[github.com/username-kamu](https://github.com/HBWicaksono))
+Haryo Bismo Wicaksono (https://github.com/HBWicaksono)
