@@ -13,7 +13,7 @@ Dashboard ini digunakan untuk menganalisis sentimen dan topik komentar pelanggan
 1.  Pastikan Anda sudah menginstal Python.
 2.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/username-kamu/dashboard-maybank-kolaborasi.git](https://github.com/username-kamu/dashboard-maybank-kolaborasi.git)
+    git clone [(https://github.com/username-kamu/dashboard-maybank-kolaborasi.git](https://github.com/HBWicaksono/Maybank-Branch-Customer-Review-Sentiment-Analysis/blob/main/README.md))
     ```
 3.  Masuk ke folder proyek:
     ```bash
