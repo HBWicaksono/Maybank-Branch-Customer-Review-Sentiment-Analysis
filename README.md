@@ -25,7 +25,7 @@ Dashboard ini digunakan untuk menganalisis sentimen dan topik komentar pelanggan
     ```
 5.  Jalankan aplikasi Streamlit:
     ```bash
-    streamlit run app.py
+    streamlit run app (1).py
     ```
 
 
