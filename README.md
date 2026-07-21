@@ -28,11 +28,6 @@ Dashboard ini digunakan untuk menganalisis sentimen dan topik komentar pelanggan
     streamlit run app.py
     ```
 
-## Struktur Data
-
-Aplikasi ini membutuhkan file data CSV berikut di dalam folder `data/`:
-- `komen negatif.csv`, `komen netral.csv`, `komen positif.csv`
-- `topik negatif label.csv`, `topik netral label.csv`, `topik positif label.csv`
 
 ## Kontributor
 Haryo Bismo Wicaksono (https://[github.com/username-kamu](https://github.com/HBWicaksono))
